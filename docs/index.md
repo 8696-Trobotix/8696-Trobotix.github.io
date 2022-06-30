@@ -1,4 +1,4 @@
-| <image src="Trobotix.png" alt="Trobotix icon." style="max-width: 100%; border: none;" /> | <image src="favicon.png" alt="Second icon." style="max-width: 100%; border: none;" /> |
+| <image src="Trobotix.png" alt="Trobotix icon." style="max-width: 100%; border: none; box-shadow: none;" /> | <image src="favicon.png" alt="Second icon." style="max-width: 100%; border: none; box-shadow: none;" /> |
 | :---: | :---: |
 | [**Main Website**](https://sites.google.com/view/trobotix/home) | [**GitHub**](https://github.com/8696-Trobotix) |
 ## Seasons
