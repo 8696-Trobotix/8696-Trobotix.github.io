@@ -2,9 +2,9 @@
 | :---: | :---: |
 | [**Main Website**](https://sites.google.com/view/trobotix/home) | [**GitHub**](https://github.com/8696-Trobotix) |
 ## Seasons
-<details><summary>Freight Frenzy [2021 - 2022]</summary>
+<details><summary><strong>Freight Frenzy [2021 - 2022]</strong></summary>
+<image src="images/FreightFrenzyImg.png" alt="Robot from 2022." style="max-width: 50%; border: none; box-shadow: none;" />
 
-![Freight Frenzy image.](images/FreightFrenzyImg.png)
 ### TeleOp
 ```java
 package org.firstinspires.ftc.teamcode;
