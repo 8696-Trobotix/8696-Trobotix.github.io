@@ -1,10 +1,10 @@
-| <image src="Trobotix.png" alt="Trobotix icon." style="max-width: 100%;" /> | <image src="favicon.png" alt="Second icon." style="max-width: 100%;" /> |
+| <image src="Trobotix.png" alt="Trobotix icon." style="max-width: 100%; border: none;" /> | <image src="favicon.png" alt="Second icon." style="max-width: 100%; border: none;" /> |
 | :---: | :---: |
 | [**Main Website**](https://sites.google.com/view/trobotix/home) | [**GitHub**](https://github.com/8696-Trobotix) |
 ## Seasons
 <details><summary>Freight Frenzy [2021 - 2022]</summary>
 
-![Freight Frenzy image.](/assets/images/FreightFrenzyImg.png)
+![Freight Frenzy image.](images/FreightFrenzyImg.png)
 ### TeleOp
 ```java
 package org.firstinspires.ftc.teamcode;
