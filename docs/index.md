@@ -2,8 +2,7 @@
 | :---: | :---: |
 | [**Main Website**](https://sites.google.com/view/trobotix/home) | [**GitHub**](https://github.com/8696-Trobotix) |
 ## Seasons
-<details><summary>Freight Frenzy</summary>
-<p>
+<details><summary>Freight Frenzy [2021 - 2022]</summary>
 
 ![Freight Frenzy image.](/images/FreightFrenzyImg.png)
 ### TeleOp
@@ -87,5 +86,4 @@ public class TeleOpII extends LinearOpMode {
 ```
 ### Autonomous
 > *On vacation.*
-</p>
 </details>
