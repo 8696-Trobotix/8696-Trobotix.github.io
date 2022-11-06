@@ -1,6 +1,8 @@
 | <image src="Trobotix.png" alt="Trobotix icon." style="max-width: 100%; border: none; box-shadow: none;" /> | <image src="favicon.png" alt="Second icon." style="max-width: 100%; border: none; box-shadow: none;" /> |
 | :---: | :---: |
 | [**Main Website**](https://sites.google.com/view/trobotix/home) | [**GitHub**](https://github.com/8696-Trobotix) |
+## Open Source Projects
+- [tralloy](https://8696-trobotix.github.io/tralloy/) - Template for console-based web applications. [Repository](https://github.com/8696-Trobotix/tralloy).
 ## Seasons
 <details><summary><strong>Freight Frenzy [2021 - 2022]</strong></summary>
 <image src="images/FreightFrenzyImg.png" alt="Robot from 2022." style="max-width: 50%; border: none; box-shadow: none;" />
