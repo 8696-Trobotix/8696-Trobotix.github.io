@@ -22,4 +22,4 @@
 | [Relic Recovery](seasons/RelicRecovery.md) | 2017 - 2018 | Iowa State Championship |
 | [Velocity Vortex](seasons/VelocityVortex.md) | 2016 - 2017 | North Super-Regional Tournament |
 
-> <i>We'll get to Worlds eventually.</i>
+> <span style="font-style: italic;">We'll get to Worlds eventually.</span>
