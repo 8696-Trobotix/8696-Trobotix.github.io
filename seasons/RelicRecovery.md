@@ -1,4 +1,5 @@
-[< Back](../index.md)
+[< Back](../index.md) | [< General Info](./index.md)
+
 # Relic Recovery
 
 | <image src="../images/RelicRecovery/RelicRecoveryImg.png" style="max-width: 100%; border: none; box-shadow: none;" /> |

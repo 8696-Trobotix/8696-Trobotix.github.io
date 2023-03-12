@@ -4,4 +4,4 @@ commonmark:
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 theme: jekyll-theme-slate
 title: Trobotix 8696 GitHub
-description: Trobotix FTC source code.
+description: Programming Site

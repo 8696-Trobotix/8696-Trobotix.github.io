@@ -1,12 +1,13 @@
-[< Back](../index.md)
+[< Back](../index.md) | [< General Info](./index.md)
+
 # Freight Frenzy
 
 | <image src="../images/FreightFrenzy/FreightFrenzyImg.png" style="max-width: 100%; border: none; box-shadow: none;" /> |
 | :---: |
-| Robot picks up orange. This image was originally cropped at the corners because a shoe was in view. |
+| Robot picks up an orange. This image was originally cropped at the corners because a shoe was in view. |
 
 Nearly all the members were new this year, with former members being occupied.  
-Regardless, this was a great learning experience!  
+Regardless, it was a great learning experience!  
 We did not advance past the League Tournament.
 
 ___

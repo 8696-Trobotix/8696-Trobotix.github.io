@@ -1,16 +1,15 @@
-[< Back](../index.md)
+[< Back](../index.md) | [< General Info](./index.md)
+
 # Skystone
 
 | <image src="../images/Skystone/SkystoneImg.png" style="max-width: 100%; border: none; box-shadow: none;" /> |
 | :---: |
 | I believe the robot had to hang on a bar this season. |
 
-The following source code was retrieved from a branch other than the main branch because apparently the main branch is effectively empty.  
+The following source code was retrieved from a branch other than the main branch because the main branch was effectively empty.  
 League Tournament: Think Award  
 Super Qualifiers: Think Award  
 State: Promote Award
-
-> "Fun Fact: We lost all of our matches at the SQ and at State."
 
 ___
 

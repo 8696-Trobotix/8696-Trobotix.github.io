@@ -1,4 +1,5 @@
-[< Back](../index.md)
+[< Back](../index.md) | [< General Info](./index.md)
+
 # Ultimate Goal
 
 | <image src="../images/UltimateGoal/UltimateGoalImg.png" style="max-width: 100%; border: none; box-shadow: none;" /> |
@@ -7,7 +8,7 @@
 
 COVID year.  
 We have limited information on this year and prior years.  
-League Tournament: 2nd Place Innovate (did not advance)
+League Tournament: 2nd Place Innovate Award (did not advance)
 
 ___
 

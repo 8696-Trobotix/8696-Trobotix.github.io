@@ -1,4 +1,5 @@
-[< Back](../index.md)
+[< Back](../index.md) | [< General Info](./index.md)
+
 # Power Play
 > Or however else it's titled
 
