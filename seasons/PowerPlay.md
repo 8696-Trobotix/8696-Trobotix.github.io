@@ -22,6 +22,9 @@ State: Rank #5 (did not advance)
 ___
 
 ## Non-OpMode Classes
+
+> For programmers from other teams: Please attribute accordingly if the script section of OctoConfig is used in your project.
+
 <details><summary>Action</summary>
 
 ```java
