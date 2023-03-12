@@ -10,4 +10,4 @@ title: "Velocity Vortex 2016 - 2017"
 | :---: | :---: | :---: | :---: |
 | Final robot. | Early outreach. | Impressive weight carrying capacity. | Late night robotics? |
 
-Unfortunately, we are not able to locate any of the souce code for this season.
+Unfortunately, we were not able to locate any of the souce code for this season.
