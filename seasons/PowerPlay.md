@@ -1,3 +1,7 @@
+---
+title: "Power Play 2022 - 2023"
+---
+
 [< Back](../index.md) | [< General Info](./index.md)
 
 # Power Play
@@ -7,7 +11,7 @@
 | :---: | :---: | :---: |
 | Final robot. | Robot on field. | Spot. |
 
-This season's robot name is <i>Octo</i>.  
+This season's robot name is <span style="font-style: italic;">Octo</span>.  
 Development was continuously running during the later half of the season, so some decisions may seem odd.  
 League Tournament: Winning Alliance Captain  
 Super Qualifiers: 2nd Place Think Award  

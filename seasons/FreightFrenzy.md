@@ -1,3 +1,7 @@
+---
+title: "Freight Frenzy 2021 - 2022"
+---
+
 [< Back](../index.md) | [< General Info](./index.md)
 
 # Freight Frenzy
