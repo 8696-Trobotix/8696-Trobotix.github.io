@@ -8,7 +8,7 @@ title: "Rover Ruckus 2018 - 2019"
 
 | <image src="../images/RoverRuckus/RoverRuckusImg.png" style="max-width: 100%; border: none; box-shadow: none;" /> |
 | :---: |
-| Too many CAD drawings, not enough photos of the actual robot. |
+| Many CAD drawings of the robot this season. This is one of the few images found. |
 
 The following source code was retrieved from an archived document.  
 This [former Trobotix member](https://github.com/Schierkes?tab=repositories) may have potentially more up-to-date versions as well as hardware classes. Any communications or questions should be directed at the team organization linked on the [main page](../index.md).  

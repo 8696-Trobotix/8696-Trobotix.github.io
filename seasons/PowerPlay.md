@@ -5,7 +5,7 @@ title: "Power Play 2022 - 2023"
 [< Back](../index.md) | [< General Info](./index.md)
 
 # Power Play
-> Or however else it's titled
+> Or however else it's titled.
 
 | <image src="../images/PowerPlay/PowerPlayImg.png" style="max-width: 100%; border: none; box-shadow: none;" /> | <image src="../images/PowerPlay/Robot.png" style="max-width: 100%; border: none; box-shadow: none;" /> | <image src="../images/PowerPlay/Spot.png" style="max-width: 100%; border: none; box-shadow: none;" />
 | :---: | :---: | :---: |

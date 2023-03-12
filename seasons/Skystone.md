@@ -8,7 +8,7 @@ title: "Skystone 2019 - 2020"
 
 | <image src="../images/Skystone/SkystoneImg.png" style="max-width: 100%; border: none; box-shadow: none;" /> |
 | :---: |
-| I believe the robot had to hang on a bar this season. |
+| This season looked fun. |
 
 The following source code was retrieved from a branch other than the main branch because the main branch was effectively empty.  
 League Tournament: Think Award  
