@@ -1,3 +1,7 @@
+---
+title: "General Information"
+---
+
 [< Back](../index.md)
 
 # General Information
