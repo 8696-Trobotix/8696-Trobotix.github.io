@@ -11,7 +11,7 @@ permalink: /RelicRecovery
 | :---: |
 | The old wheels look very different. |
 
-Source code for this season can be found [here](https://github.com/Schierkes/Trobotix_2018-Code). Any communications or questions should be directed at the team organization linked on the [main page](../index.md).  
+Source code for this season can be found [here](https://github.com/Schierkes/Trobotix_2018-Code). Any communications or questions should be directed at the team organization linked on the [main page](../index.md).
 
 ___
 

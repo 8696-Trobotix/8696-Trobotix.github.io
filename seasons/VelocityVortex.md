@@ -11,4 +11,8 @@ permalink: /VelocityVortex
 | :---: | :---: | :---: | :---: |
 | Final robot. | Early outreach. | Impressive weight carrying capacity. | Late night robotics? |
 
-Unfortunately, we were not able to locate any of the souce code for this season.
+Source code for this season can be found [here](https://github.com/yrkv/ftc_code). Any communications or questions should be directed at the team organization linked on the [main page](../index.md).
+
+___
+
+Please see description above.
