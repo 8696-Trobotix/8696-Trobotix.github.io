@@ -1,5 +1,6 @@
 ---
 title: "Skystone 2019 - 2020"
+permalink: /Skystone
 ---
 
 [< Back](../index.md) | [< General Info](./index.md)

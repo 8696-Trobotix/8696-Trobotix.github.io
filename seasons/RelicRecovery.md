@@ -1,5 +1,6 @@
 ---
 title: "Relic Recovery 2017 - 2018"
+permalink: /RelicRecovery
 ---
 
 [< Back](../index.md) | [< General Info](./index.md)

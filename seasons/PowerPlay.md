@@ -1,5 +1,6 @@
 ---
 title: "Power Play 2022 - 2023"
+permalink: /PowerPlay
 ---
 
 [< Back](../index.md) | [< General Info](./index.md)
