@@ -1,5 +1,6 @@
 ---
 title: "Rover Ruckus 2018 - 2019"
+permalink: /RoverRuckus
 ---
 
 [< Back](../index.md) | [< General Info](./index.md)

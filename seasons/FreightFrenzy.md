@@ -1,5 +1,6 @@
 ---
 title: "Freight Frenzy 2021 - 2022"
+permalink: /FreightFrenzy
 ---
 
 [< Back](../index.md) | [< General Info](./index.md)

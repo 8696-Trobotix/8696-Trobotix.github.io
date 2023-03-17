@@ -1,5 +1,6 @@
 ---
 title: "Ultimate Goal 2020 - 2021"
+permalink: /UltimateGoal
 ---
 
 [< Back](../index.md) | [< General Info](./index.md)

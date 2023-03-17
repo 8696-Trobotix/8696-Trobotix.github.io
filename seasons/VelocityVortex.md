@@ -1,5 +1,6 @@
 ---
 title: "Velocity Vortex 2016 - 2017"
+permalink: /VelocityVortex
 ---
 
 [< Back](../index.md) | [< General Info](./index.md)
