@@ -11,7 +11,8 @@
 | [𓅦 ftcemu](https://github.com/8696-Trobotix/ftcemu) | Experimental code and robot emulator without the use of an IDE. This is different from the [virtual_robot](https://github.com/Beta8397/virtual_robot) project - hopefully it won't be redundant. | Under Development |
 
 ## Seasons
-[General Info](seasons/index.md)
+[General Info](seasons/index.md)  
+The HTML for the code blocks was not manually written, it's automatically generated.
 | Season | Year | Team Progress |
 | --- | --- | --- |
 | [🐙 Power Play](seasons/PowerPlay.md) | 2022 - 2023 | Iowa Championship |
