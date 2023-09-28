@@ -8,7 +8,7 @@
 | Name | Description | Status |
 | --- | --- | --- |
 | [📺 🐁 tralloy](https://github.com/8696-Trobotix/tralloy) | Template for console-based web applications. | Neglected |
-| [𓅦 ftcemu](https://github.com/8696-Trobotix/ftcemu) | Experimental code and robot emulator without the use of an IDE. This is different from the [virtual_robot](https://github.com/Beta8397/virtual_robot) project - hopefully it won't be redundant. | Under Development |
+| [𓅦 ftcemu](https://github.com/8696-Trobotix/ftcemu) | Experimental tool to extract parts of the robot controller for debugging purposes in a normal Java environment. | Alpha - Under Development |
 | [🔨 ftcontainer](https://github.com/8696-Trobotix/ftcontainer) | Build the FtcRobotController in a development container on *practically* any device. | ✅ |
 
 ## Seasons
