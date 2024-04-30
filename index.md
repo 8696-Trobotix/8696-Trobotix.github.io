@@ -7,7 +7,6 @@
 ## Open Source Projects
 | Name | Description | Status |
 | --- | --- | --- |
-| [📺 🐁 tralloy](https://github.com/8696-Trobotix/tralloy) | Template for console-based web applications. | Neglected |
 | [𓅦 ftcemu](https://github.com/8696-Trobotix/ftcemu) | Experimental tool to extract parts of the robot controller for debugging purposes in a normal Java environment. | Impractical |
 | [🔨 ftcontainer](https://github.com/8696-Trobotix/ftcontainer) | Build the FtcRobotController in a development container on *practically* any device. | ✅ |
 | [🐚 mollusc](https://github.com/8696-Trobotix/mollusc) | Trobotix common modules. | ✅ Pre-release v0.1.0 |
