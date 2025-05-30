@@ -16,6 +16,7 @@
 The HTML for the code blocks was not manually written, it's automatically generated.
 | Season | Year | Team Progress |
 | --- | --- | --- |
+| [🌊 INTO THE DEEP](seasons/INTOTHEDEEP.md) | 2024 - 2025 | Iowa Championship |
 | [🦑 CENTERSTAGE](seasons/CENTERSTAGE.md) | 2023 - 2024 | Iowa Championship |
 | [🐙 Power Play](seasons/PowerPlay.md) | 2022 - 2023 | Iowa Championship |
 | [Freight Frenzy](seasons/FreightFrenzy.md) | 2021 - 2022 | League Tournament |
