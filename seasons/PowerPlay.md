@@ -16,7 +16,7 @@ This season's robot name is <span style="font-style: italic;">Octo</span>.
 Development was continuously running during the later half of the season, so some decisions may seem odd.  
 League Tournament: Winning Alliance Captain  
 Super Qualifiers: 2nd Place Think Award  
-State: Rank #5 (did not advance)
+Iowa Championship: Rank #5 (did not advance)
 
 > Note: We bumped up the Android API level to 24 in the Gradle common build file.
 

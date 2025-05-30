@@ -15,7 +15,7 @@ The following source code was retrieved from an archived document.
 This [former Trobotix member](https://github.com/Schierkes?tab=repositories) may have potentially more up-to-date versions as well as hardware classes. Any communications or questions should be directed at the team organization linked on the [main page](../index.md).  
 League Tournament: Think Award  
 Super Qualifiers: Design Award  
-We did not advance past State.
+We did not advance past the championship.
 
 ___
 

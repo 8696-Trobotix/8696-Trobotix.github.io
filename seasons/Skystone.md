@@ -14,7 +14,7 @@ permalink: /Skystone
 The following source code was retrieved from a branch other than the main branch because the main branch was effectively empty.  
 League Tournament: Think Award  
 Super Qualifiers: Think Award  
-State: Promote Award
+Iowa Championship: Promote Award
 
 ___
 

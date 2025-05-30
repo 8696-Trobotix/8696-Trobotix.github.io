@@ -18,7 +18,7 @@ permalink: /CENTERSTAGE
 This season's robot name is "<span style="font-style: italic;">Troballin</span>", but is referred to as <span style="font-style: italic;">Squid</span> in the source code.  
 The [mollusc](https://github.com/8696-Trobotix/mollusc) library was jointly developed and used extensively this season.  
 League Tournament: Winning Alliance Captain and 1st Place Inspire Award  
-State: Rank #7 in Black Division (did not advance)
+Iowa Championship: Rank #7 in Black Division (did not advance)
 
 ___
 
