@@ -4,6 +4,10 @@
 | :---: | :---: |
 | [**Main Website**](https://sites.google.com/view/trobotix/home) | [**GitHub**](https://github.com/8696-Trobotix) |
 
+## General
+A complete timeline for our team can be found on the [FTC Event Web](https://ftc-events.firstinspires.org/team/8696).  
+Past Control Award submissions can be found in the team [Control Award repo](https://github.com/8696-Trobotix/control-award).
+
 ## Open Source Projects
 | Name | Description | Status |
 | --- | --- | --- |

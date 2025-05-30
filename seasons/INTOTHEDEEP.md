@@ -13,7 +13,10 @@ permalink: /INTOTHEDEEP
 
 This season's robot name is <span style="font-style: italic;">Seahorsebot</span>.  
 A port of FRC's WPILib was developed and used for this season.  
-League Tournament: Finalist Alliance - 1st Team Selected and 1st Place Connect Award  
+League Tournament: Finalist Alliance - 1st Team Selected and 1st Place Connect Award
+
+The name of Trobotix 2's robot is <span style="font-style: italic;">Honda Accord</span>.  
+<image src="../images/INTOTHEDEEP/Accord.png" style="max-width: 100%; border: none; box-shadow: none;" />
 
 ___
 
