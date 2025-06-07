@@ -13,7 +13,7 @@ permalink: /CENTERSTAGE
 
 | <image src="../images/CENTERSTAGE/Trobotix2.png" style="width: 100%; max-width: 100%; border: none; box-shadow: none;" /> | <image src="../images/CENTERSTAGE/Vision.png" style="max-width: 100%; border: none; box-shadow: none;" /> | <video src="../images/CENTERSTAGE/HangTest.webm" style="max-width: 100%; border: none; box-shadow: none;" preload="auto" muted controls></video> |
 | :---: | :---: | :---: |
-| Trobotix #2. | Contour-based object detection with EOCV. | First successful hanging test. |
+| Trobotix #2. Robot name: <span style="font-style: italic;">Pumpkin</span> | Contour-based object detection with EOCV. | First successful hanging test. |
 
 This season's robot name is "<span style="font-style: italic;">Troballin</span>", but is referred to as <span style="font-style: italic;">Squid</span> in the source code.  
 The [mollusc](https://github.com/8696-Trobotix/mollusc) library was jointly developed and used extensively this season.  
