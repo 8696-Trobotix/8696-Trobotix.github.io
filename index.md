@@ -11,15 +11,16 @@ Past Control Award submissions can be found in the team [Control Award repo](htt
 ## Open Source Projects
 | Name | Description | Status |
 | --- | --- | --- |
-| [𓅦 ftcemu](https://github.com/8696-Trobotix/ftcemu) | Experimental tool to extract parts of the robot controller for debugging purposes in a normal Java environment. | Impractical |
 | [🔨 ftcontainer](https://github.com/8696-Trobotix/ftcontainer) | Build the FtcRobotController in a development container on *practically* any device. | ✅ |
 | [🐚 mollusc](https://github.com/8696-Trobotix/mollusc) | Trobotix common modules. | ✅ Pre-release v0.1.0 |
+| [𓅦 ftcemu](https://github.com/8696-Trobotix/ftcemu) | Experimental tool to extract parts of the robot controller for debugging purposes in a normal Java environment. | Impractical |
 
 ## Seasons
 [General Info](seasons/index.md)  
 The HTML for the code blocks was not manually written, it's automatically generated.
-| Season | Year | Team Progress |
+| Season | Year | Advancement |
 | --- | --- | --- |
+| [🦴 DECODE](seasons/DECODE.md) | 2025 - 2026 | League Tournament |
 | [🌊 INTO THE DEEP](seasons/INTOTHEDEEP.md) | 2024 - 2025 | Iowa Championship |
 | [🦑 CENTERSTAGE](seasons/CENTERSTAGE.md) | 2023 - 2024 | Iowa Championship |
 | [🐙 Power Play](seasons/PowerPlay.md) | 2022 - 2023 | Iowa Championship |
@@ -32,4 +33,4 @@ The HTML for the code blocks was not manually written, it's automatically genera
 | Res-Q | 2015 - 2016 | League Tournament |
 | Cascade Effect | 2014 - 2015 | League Tournament |
 
-> <span style="font-style: italic;">We'll get to Worlds eventually.</span>
+<!-- > <span style="font-style: italic;">We'll get to Worlds eventually.</span> -->
